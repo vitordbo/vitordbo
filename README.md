@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vitordbo&label=Profile%20views&color=0e75b6&style=flat" alt="vitordbo" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter** and **Swift**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
